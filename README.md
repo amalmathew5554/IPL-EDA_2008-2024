@@ -20,9 +20,9 @@ I cleaned and extended it to include matches up to 2024.
 The cleaned dataset used in this notebook is `ipl_cleaned.csv`.
 
 # Tools & Libraries
-- Python (Pandas, NumPy)
-- Matplotlib, Seaborn
-- Jupyter Notebook
+- Python (Pandas, NumPy) for data cleaning and pre processing
+- Matplotlib, Seaborn for visualizations
+- Jupyter Notebook for analysis and reporting
 
 # Key Visualizations
 - Matches played per season
