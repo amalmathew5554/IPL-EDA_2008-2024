@@ -1,5 +1,5 @@
 # IPL-EDA_2008-2024
-Exploratory Data Analysis of IPL match trends (2008–2024) using Python. Includes preprocessing, 15+ visualizations, and insights on teams, toss, venues, and players.
+Exploratory Data Analysis of IPL match trends (2008–2024) using Python. Includes preprocessing, visualizations, and insights on teams, toss, venues, and players.
 
 # Project Overview
 This project focuses on analyzing IPL match-level data from 2008 to 2024.  
